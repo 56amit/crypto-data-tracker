@@ -19,3 +19,5 @@ This project fetches live cryptocurrency data using the [CoinGecko API](https://
 
 ##API Details
 Endpoint Used:
+
+ Google Sheet [View Only Link](https://docs.google.com/spreadsheets/d/your-id)
