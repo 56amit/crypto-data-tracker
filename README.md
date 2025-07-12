@@ -9,7 +9,7 @@ This project fetches live cryptocurrency data using the [CoinGecko API](https://
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - Google Apps Script (JavaScript)
 - Google Sheets
